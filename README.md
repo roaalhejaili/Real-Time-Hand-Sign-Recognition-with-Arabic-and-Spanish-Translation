@@ -2,6 +2,8 @@
 ### Real-Time Hand Sign Classification with Arabic-Spanish Translation, ASL Tutor Mode, and Hand Distance Feedback
 
 
+> **Live demo (no install):** [Try it in your browser](https://roaalhejaili.github.io/Real-Time-Hand-Sign-Recognition-with-Arabic-and-Spanish-Translation/index.html). Allow the camera and show an ASL letter or word. The demo's code is in the [`docs/`](docs) folder.
+
 <p align="center">
   <b>AI385 Computer Vision Project — University of Prince Mugrin</b><br>
   Built with OpenCV, MediaPipe, TensorFlow/Keras, and Python
